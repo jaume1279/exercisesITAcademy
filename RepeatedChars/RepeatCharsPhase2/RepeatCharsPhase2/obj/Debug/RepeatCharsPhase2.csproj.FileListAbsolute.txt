@@ -1,0 +1,6 @@
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\bin\Debug\RepeatCharsPhase2.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\bin\Debug\RepeatCharsPhase2.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\bin\Debug\RepeatCharsPhase2.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\obj\Debug\RepeatCharsPhase2.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\obj\Debug\RepeatCharsPhase2.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase2\RepeatCharsPhase2\RepeatCharsPhase2\obj\Debug\RepeatCharsPhase2.pdb

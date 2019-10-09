@@ -1,0 +1,12 @@
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciLletresRepetides\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\bin\Debug\RepeatCharsPhase1.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\RepeatCharsExercise\RepeatCharsPhase1\RepeatCharsPhase1\obj\Debug\RepeatCharsPhase1.pdb

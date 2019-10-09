@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatCharsPhase4", "RepeatCharsPhase4\RepeatCharsPhase4.csproj", "{F15AAFA2-9A93-4ED8-AFF4-CB3504745825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15AAFA2-9A93-4ED8-AFF4-CB3504745825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15AAFA2-9A93-4ED8-AFF4-CB3504745825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15AAFA2-9A93-4ED8-AFF4-CB3504745825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15AAFA2-9A93-4ED8-AFF4-CB3504745825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E29776B-FD16-4ABB-A2AA-15748310CD75}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\bin\Debug\exerciciVariablesPhase3.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\bin\Debug\exerciciVariablesPhase3.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\bin\Debug\exerciciVariablesPhase3.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\obj\Debug\exerciciVariablesPhase3.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\obj\Debug\exerciciVariablesPhase3.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\exerciciVariables\exerciciVariablesPhase3\exerciciVariablesPhase3\obj\Debug\exerciciVariablesPhase3.pdb
