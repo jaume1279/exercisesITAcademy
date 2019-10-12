@@ -1,0 +1,6 @@
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\bin\Debug\CiutatsPhase2.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\bin\Debug\CiutatsPhase2.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\bin\Debug\CiutatsPhase2.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\obj\Debug\CiutatsPhase2.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\obj\Debug\CiutatsPhase2.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciCiutats\CiutatsPhase2\CiutatsPhase2\obj\Debug\CiutatsPhase2.pdb
