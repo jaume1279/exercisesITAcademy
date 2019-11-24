@@ -1,0 +1,12 @@
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.exe.config
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.pdb
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.csprojAssemblyReference.cache
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.exe
+C:\Users\jaume\Desktop\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.pdb
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.exe.config
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.exe
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\bin\Debug\RestaurantPhase3.pdb
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.exe
+D:\IT_Academy\C#\ExerciciRestaurant\Restaurant\RestaurantPhase3\RestaurantPhase3\RestaurantPhase3\obj\Debug\RestaurantPhase3.pdb
