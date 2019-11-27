@@ -65,7 +65,7 @@ namespace RestaurantPhase2
                 Console.WriteLine("Plato num: " + (j+1));
                 choosenDishes.Add(Console.ReadLine());
                 j++;
-                Console.WriteLine("Mas platos? Pulsa 1 para finalizar, otra tecla para seguir ");
+                Console.WriteLine("Mas platos? Pulsa * para finalizar, otra tecla para seguir ");
             }
             while ((Console.ReadKey().KeyChar) != '*') ;
 

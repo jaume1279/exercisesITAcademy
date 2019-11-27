@@ -7,6 +7,8 @@ namespace RestaurantPhase3
     {
         static void Main(string[] args)
         {
+            int pm1 = 1;
+            int pm2 = 2;
             int pm5 = 5;
             int pm10 = 10;
             int pm20 = 20;
@@ -31,7 +33,7 @@ namespace RestaurantPhase3
                 menu[i] = Console.ReadLine();
                 do
                 {
-                    Console.Write($"Precio del plato {(i + 1)}, OJO! que sea múltiplo de 5 !!!!! : ");
+                    Console.Write($"Precio del plato {(i + 1)}: ");
                 }
                 while (!(int.TryParse(Console.ReadLine().Replace(".", ","), out priceDish[i])));
                 Console.WriteLine();
@@ -144,8 +146,8 @@ namespace RestaurantPhase3
             var restp20 = checkBill(restp50, pm20);
             var restp10 = checkBill(restp20, pm10);
             var restp5 = checkBill(restp10, pm5);
-
-
+            var restp2 = checkBill(restp5, pm2);
+            var restp1 = checkBill(restp2, pm1);
 
 
             if (restp5 == 0)
@@ -165,7 +167,7 @@ namespace RestaurantPhase3
 
         static int checkBill(int amount, int bill)
         {
-            if ((Math.Truncate((decimal)(amount / bill))) > 0)
+            if ((Math.Truncate((double)(amount / bill))) > 0)
             {
                 Console.WriteLine($"{Math.Truncate((decimal)(amount / bill))} billetes de {bill}");
                 amount -= (int)((Math.Truncate((decimal)((amount / bill)) * bill)));
